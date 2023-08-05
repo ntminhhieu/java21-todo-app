@@ -1,1 +1,1 @@
-update version
+update version todo-app-2.0 snapshot
